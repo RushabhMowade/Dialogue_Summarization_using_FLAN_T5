@@ -24,7 +24,7 @@ It explores **zero-shot,one-shot and few-shot inference**, applies **prompt engi
 ---
 
 ## 📊 Evaluation
-Model-generated summaries are compared with human-written references using **ROUGE scores**, enabling quantitative evaluation of summarization quality across different prompts.
+Model-generated summaries are compared with human-written references using **ROUGE scores**, enabling quantitative evaluation of summarization quality across different prompts...............
 
 ---
 
